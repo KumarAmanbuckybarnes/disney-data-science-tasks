@@ -23,5 +23,7 @@ Working with Dates (datetime library): Manipulating dates and times within the d
 
 Saving & Loading Data with Pickle library: Employing the Pickle library to save and load processed data efficiently. 
 Accessing Data from an API using Requests library: Exploring the possibility of accessing additional data sources through APIs to enrich the dataset. 
+
+
 Project Overview: 
 The project involves a series of tasks structured in a tutorial format, guiding users through the process of collecting, cleaning, and analyzing data on Disney movies using Python libraries such as BeautifulSoup, requests, re, datetime, and Pickle. 
